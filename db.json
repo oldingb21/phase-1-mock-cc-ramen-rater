@@ -44,7 +44,7 @@
       "name": "Sunshine Special",
       "restaurant": "Sunshine Ramen",
       "image": "https://www.mydomaine.com/thmb/Eu9idoFVz8uMUH_6LSkwD33Jbas=/1812x1450/filters:no_upscale():max_bytes(150000):strip_icc()/vegan-laksa-8417-f4c06df7df7f4297a4170ae740e4c004.jpg",
-      "rating": "10",
+      "rating": 10,
       "comment": "The best ramen under the sun.",
       "id": 6
     }

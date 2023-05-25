@@ -35,7 +35,7 @@ window.addEventListener('DOMContentLoaded', (e) => {
                 "name":`${e.target.name.value}`,
                 "restaurant":`${e.target.restaurant.value}`,
                 "image":`${e.target.image.value}`,
-                "rating":`${e.target.rating.value}`,
+                "rating": parseInt(e.target.rating.value, 10),
                 "comment":`${e.target.new_comment.value}`,
             })
         })
